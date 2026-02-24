@@ -1,0 +1,119 @@
+PLCTV ("we", "our", or "us") operates the PLCTV mobile application, a platform that provides access to television channels, movies, and entertainment content.
+
+This Privacy Policy explains how we collect, use, and protect user information when using our application.
+
+1. Information We Collect
+a. Information You Provide
+
+We may collect:
+
+Phone number
+
+b. Automatically Collected Information
+
+When using PLCTV, we may collect:
+
+- Device model and OS version
+
+- App usage data
+
+- IP address
+
+- App performance and crash logs
+
+c. Media & Network Access
+
+PLCTV requires internet access to stream video content.
+
+We do NOT access:
+
+- Contacts
+
+- Photos
+
+- Microphone
+
+- Location (unless explicitly stated)
+
+2. How We Use Information
+
+We use collected information to:
+
+- Provide TV and movie streaming services
+
+- Improve app performance
+
+- Personalize content recommendations
+
+- Fix bugs and crashes
+
+- Prevent fraud or misuse
+
+- Provide customer support
+
+3. Third-Party Services
+
+PLCTV may use third-party services including:
+
+- Google Play Services
+
+- Analytics providers
+
+These services may collect information according to their own privacy policies.
+
+4. Data Sharing
+
+We do not sell personal data.
+
+We may share information only:
+
+- To comply with legal obligations
+
+- With service providers operating the app
+
+- To protect users and platform security
+
+5. Data Security
+
+We implement reasonable technical and organizational measures to protect user data against unauthorized access or disclosure.
+
+6. Children’s Privacy
+
+PLCTV is not directed to children under 13 years old.
+
+We do not knowingly collect personal information from children.
+
+7. Data Retention
+
+We retain data only as long as necessary to:
+
+- Provide services
+
+- Meet legal requirements
+
+- Improve application performance
+
+8. Your Rights
+
+Users may request:
+
+- Access to personal data
+
+- Data correction
+
+- Account deletion
+
+Contact us using the email below.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy periodically. Updates will be posted within the app or on our website.
+
+10. Contact Us
+
+If you have questions about this Privacy Policy:
+
+App Name: PLCTV
+Email: chamroeuncl22@gmail.com
+
+Developer: Jrnn21
