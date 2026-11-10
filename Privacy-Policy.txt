@@ -1,119 +1,47 @@
-PLCTV ("we", "our", or "us") operates the PLCTV mobile application, a platform that provides access to television channels, movies, and entertainment content.
-
-This Privacy Policy explains how we collect, use, and protect user information when using our application.
-
-1. Information We Collect
-a. Information You Provide
-
-We may collect:
-
-Phone number
-
-b. Automatically Collected Information
-
-When using PLCTV, we may collect:
-
-- Device model and OS version
-
-- App usage data
-
-- IP address
-
-- App performance and crash logs
-
-c. Media & Network Access
-
-PLCTV requires internet access to stream video content.
-
-We do NOT access:
-
-- Contacts
-
-- Photos
-
-- Microphone
-
-- Location (unless explicitly stated)
-
-2. How We Use Information
-
-We use collected information to:
-
-- Provide TV and movie streaming services
-
-- Improve app performance
-
-- Personalize content recommendations
-
-- Fix bugs and crashes
-
-- Prevent fraud or misuse
-
-- Provide customer support
-
-3. Third-Party Services
-
-PLCTV may use third-party services including:
-
-- Google Play Services
-
-- Analytics providers
-
-These services may collect information according to their own privacy policies.
-
-4. Data Sharing
-
-We do not sell personal data.
-
-We may share information only:
-
-- To comply with legal obligations
-
-- With service providers operating the app
-
-- To protect users and platform security
-
-5. Data Security
-
-We implement reasonable technical and organizational measures to protect user data against unauthorized access or disclosure.
-
-6. Children’s Privacy
-
-PLCTV is not directed to children under 13 years old.
-
-We do not knowingly collect personal information from children.
-
-7. Data Retention
-
-We retain data only as long as necessary to:
-
-- Provide services
-
-- Meet legal requirements
-
-- Improve application performance
-
-8. Your Rights
-
-Users may request:
-
-- Access to personal data
-
-- Data correction
-
-- Account deletion
-
-Contact us using the email below.
-
-9. Changes to This Policy
-
-We may update this Privacy Policy periodically. Updates will be posted within the app or on our website.
-
-10. Contact Us
-
-If you have questions about this Privacy Policy:
-
+PLCTV Terms of Service
+Last updated: November 10, 2026
+These Terms govern your use of the PLCTV mobile application ("PLCTV", "we", "our", "us"), operated by Jrnn21. By using PLCTV you agree to these Terms. If you do not agree, do not use the app.
+1. The Service
+PLCTV provides access to television channels, movies, and entertainment content through internet streaming. Content availability may change at any time without notice.
+2. Eligibility
+You must be at least 13 years old. If you are under the age of majority in your country, you need a parent or guardian's permission.
+3. Your Account
+• You may be asked to register with a phone number.
+• You are responsible for all activity under your account.
+• Provide accurate information and keep your login secure.
+• Do not share your account in ways that bypass device or usage limits.
+4. Subscriptions and Payments
+• Some content or features may require a paid subscription or purchase.
+• Prices and plan durations are shown in the app before you pay. Access lasts for the paid period only; when it expires, you must pay again to continue.
+• Payments are made by KHQR/Bakong: you scan the QR code and pay from your own banking app. Subscriptions do not renew automatically, and we never charge you automatically.
+• Unless required by law, payments are non-refundable once access has been activated.
+• Access begins after payment is confirmed. If a payment is deducted but access is not granted, contact us with proof of payment and we will resolve it.
+• We may change prices or plans with notice in the app. Changes do not affect periods already paid for.
+5. Acceptable Use
+You agree not to:
+• Copy, record, redistribute, or resell any content or streams
+• Reverse engineer, decompile, or tamper with the app
+• Use bots, scrapers, or automated tools to access the service
+• Circumvent security, geo-restrictions, or access controls
+• Use the app for any unlawful purpose
+• Interfere with or overload our servers or network
+6. Intellectual Property
+The app, its design, and its software belong to PLCTV. Content shown in the app belongs to its respective owners and is licensed for personal, non-commercial viewing only. These Terms give you no ownership rights.
+7. Content Availability
+Streams depend on third-party broadcasters and rights holders. We do not guarantee uninterrupted, error-free, or continuous availability of any channel, event, or title. Channels may be added, changed, or removed at any time.
+8. Termination
+We may suspend or terminate your access without notice if you violate these Terms or misuse the service. You may stop using the app and request account deletion at any time.
+9. Disclaimer
+The service is provided "as is" and "as available", without warranties of any kind, to the fullest extent permitted by law.
+10. Limitation of Liability
+To the fullest extent permitted by law, PLCTV is not liable for indirect, incidental, or consequential damages, or for loss of data or profits, arising from your use of the app. Nothing in these Terms limits rights you have under mandatory consumer protection laws.
+11. Privacy
+Your use of PLCTV is also governed by our Privacy Policy.
+12. Changes to These Terms
+We may update these Terms. Updates will be posted in the app or on our website. Continued use after changes means you accept them.
+13. Governing Law
+These Terms are governed by the laws of the Kingdom of Cambodia. Mandatory consumer rights in your country of residence still apply.
+14. Contact
 App Name: PLCTV
-Email: chamroeuncl22@gmail.com
-
 Developer: Jrnn21
+Email: chamroeuncl22@gmail.com
